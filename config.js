@@ -9,8 +9,13 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Army.org/wiki/North_Carolina/husband_needes_wife's.answer/asap-today",
+   // pageTitle: "Army.org/wiki/North_Carolina/husband_needes_wife's.answer/asap-today",
 
+
+
+
+
+    pageTitle: "Army.org/wiki/North_Carolina/husband_needes_wife's.answer/asap-today",
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
