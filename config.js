@@ -15,7 +15,7 @@ const CONFIG = {
 
 
 
-    pageTitle: "Army.org/wiki/North_Carolina/husband_needes_wife's.answer/asap-today",
+    //pageTitle: "Army.org/wiki/North_Carolina/husband_needes_wife's.answer/asap-today",
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
